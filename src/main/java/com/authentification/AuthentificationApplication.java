@@ -59,19 +59,6 @@ public class AuthentificationApplication implements CommandLineRunner{
 			System.out.println(x.getTaskName());
 		});
 		
-		
-//		
-//		String password = "1234";
-//		String encodedPassword = passwordEncoder.encode(password);
-//		
-//
-//		System.out.printf("Password is         : " + password);
-//		System.out.println("Encoded Password is : " + encodedPassword);
-//		
-//
-//		
-//		boolean isPasswordMatch = passwordEncoder.matches(password, encodedPassword);
-//		System.out.println("Password : " + password + "   isPasswordMatch    : " + isPasswordMatch);
 
 		
 	}
